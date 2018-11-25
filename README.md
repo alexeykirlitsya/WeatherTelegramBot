@@ -1,0 +1,1 @@
+**Weather Telegram Bot**</br> This is a simple telegram bot that shows the weather by the geolocation you send or the city name you enter.</br> Bot name - [@Weather_ak](https://telegram.me/weather_ak_bot).</br>Try it works!
